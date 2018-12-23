@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=name\ quantity\ calories
+comment0.target=Vegetable(java.lang.String,\ int,\ int)
+comment0.text=\r\n\ Constructor\ for\ the\ Vegetable\ Class,\ uses\ a\ internal\ method\ to\ add\ Vegetables\r\n\ @param\ String\ name\:\ the\ name\ of\ the\ vegetable\r\n\ @param\ int\ Quantity\:\ the\ amount\ of\ the\ item\r\n\ @param\:\ the\ amount\ of\ calories\ of\ each\ serving\ of\ food\r\n
+comment1.params=name\ quantity\ calories
+comment1.target=void\ addFood(java.lang.String,\ int,\ int)
+comment1.text=\r\n\ This\ method\ adds\ a\ new\ vegetable\ to\ the\ list\r\n\ @param\ String\ name\:\ the\ name\ of\ the\ vegetable\r\n\ @param\ int\ Quantity\:\ the\ amount\ of\ the\ item\r\n\ @param\:\ the\ amount\ of\ calories\ of\ each\ serving\ of\ food\r\n
+numComments=2

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CalorieManager()
+comment0.text=\r\n\ Constructor\ of\ the\ Calorie\ Manager,\ This\ creates\ a\ new\ GUI\ objected\ and\ inputs\ the\ class\ itself\ in\ it\r\n
+comment1.params=food
+comment1.target=void\ addFood(Food)
+comment1.text=\r\n\ this\ method\ takes\ in\ the\ foods\ of\ the\ three\ category\ and\ puts\ it\ in\ a\ list\r\n
+comment2.params=
+comment2.target=void\ printDetails()
+comment2.text=\r\n\ This\ prints\ out\ all\ the\ information\ of\ the\ food\ in\ a\ BlueJ\ Terminal\ Window\r\n
+comment3.params=
+comment3.target=void\ saveData()
+comment3.text=\r\n\ This\ method\ is\ a\ output\ method\ that\ takes\ the\ lsit\ of\ foods\ in\ the\ list,\ and\ makes\ a\ textfile\ with\ all\ the\ information\ of\ the\ consumed\ food\r\n\ @throws\ a\ IOException\ when\ there\ is\ a\ problem\ writing\ the\ file\r\n
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

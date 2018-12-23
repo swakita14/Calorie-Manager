@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=category
+comment0.target=NullStringException(java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ NullStringException\r\n\ @param\ String\ category\:\ takes\ in\ the\ category\ of\ the\ foods\r\n
+comment1.params=
+comment1.target=java.lang.String\ getCategory()
+comment1.text=\r\n\ Returns\ the\ category\ of\ the\ food\r\n\ @return\ The\ category\ of\ the\ food\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\ Overrrides\ a\ toString\ method\ that\ shows\ an\ error\ when\ the\ category\ selected\ is\ not\ in\ the\ list\r\n\ @return\ the\ message\ that\ is\ returned\ when\ the\ selected\ category\ of\ food\ is\ not\ in\ the\ list\r\n
+numComments=3

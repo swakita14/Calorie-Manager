@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=name\ quantity\ calories
+comment0.target=void\ addFood(java.lang.String,\ int,\ int)
+comment0.text=\r\n\ This\ is\ the\ abstract\ method\ that\ all\ the\ food\ class\ have\ in\ order\ to\ add\ a\ certain\ food\ to\ the\ list\r\n
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment1.text=\r\n\ Gets\ the\ name\ of\ the\ food\r\n\ @return\ Returns\ the\ name\ of\ the\ food\r\n
+comment2.params=
+comment2.target=int\ getCalories()
+comment2.text=\r\n\ Gets\ the\ calorie\ of\ the\ food\r\n\ @return\ Returns\ the\ calorie\ of\ the\ item\r\n
+comment3.params=
+comment3.target=int\ getQuantity()
+comment3.text=\r\n\ Gets\ the\ quantity\ of\ the\ food\r\n\ @return\ Returns\ the\ quantity\ of\ the\ item\r\n
+comment4.params=
+comment4.target=java.lang.String\ getCategory()
+comment4.text=\r\n\ Gets\ the\ category\ of\ the\ food\r\n\ @return\ Returns\ the\ category\ of\ the\ item\r\n
+numComments=5
